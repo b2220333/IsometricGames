@@ -1,0 +1,601 @@
+﻿Log file open, 12/09/17 11:55:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: IsometricCityBuilder
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1321012777) SRandInit(-1321012776).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.297912
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.09-09.55.54:843][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-09.55.54:843][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.09-09.55.54:898][  0]LogInit: Computer: DESKTOP-M4Q5LBQ
+[2017.12.09-09.55.54:898][  0]LogInit: User: Lauri
+[2017.12.09-09.55.54:898][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.09-09.55.54:898][  0]LogInit: High frequency timer resolution =3.417979 MHz
+[2017.12.09-09.55.54:898][  0]LogMemory: Memory total: Physical=10.0GB (10GB approx)
+[2017.12.09-09.55.54:898][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-09.55.54:898][  0]LogMemory: Process Physical Memory: 276.73 MB used, 276.73 MB peak
+[2017.12.09-09.55.54:898][  0]LogMemory: Process Virtual Memory: 269.66 MB used, 269.66 MB peak
+[2017.12.09-09.55.54:898][  0]LogMemory: Physical Memory: 6637.19 MB used,  3551.66 MB free, 10188.85 MB total
+[2017.12.09-09.55.54:898][  0]LogMemory: Virtual Memory: 676.73 MB used,  3551.66 MB free, 134217728.00 MB total
+[2017.12.09-09.55.55:323][  0]LogInit: Using OS detected language (en-US).
+[2017.12.09-09.55.55:323][  0]LogInit: Using OS detected locale (fi-FI).
+[2017.12.09-09.55.55:553][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.09-09.55.55:554][  0]LogTextLocalizationManager: No localization for 'fi-FI' exists, so 'en-US' will be used for the locale.
+[2017.12.09-09.55.56:247][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.09-09.56.00:575][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.09-09.56.00:626][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.12.09-09.56.00:626][  0]LogD3D11RHI:       8086/0/5094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.09-09.56.00:631][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.09-09.56.00:631][  0]LogD3D11RHI:       0/0/5094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.09-09.56.00:631][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.09-09.56.00:637][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.09-09.56.00:637][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.09-09.56.00:637][  0]LogWindows: EnumDisplayDevices:
+[2017.12.09-09.56.00:637][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2017.12.09-09.56.00:637][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.12.09-09.56.00:637][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.09-09.56.00:637][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.09-09.56.00:638][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.09-09.56.00:638][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.12.09-09.56.00:638][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.09-09.56.00:638][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.09-09.56.00:638][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2017.12.09-09.56.00:665][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.09-09.56.00:717][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.09-09.56.00:808][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Intermediate/Shaders/WorkingDirectory/13216/).
+[2017.12.09-09.56.00:808][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lauri/AppData/Local/Temp/UnrealShaderWorkingDir/1A50BA1E4D7E028B56E6C69367965F8D/'.
+[2017.12.09-09.56.00:808][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.09-09.56.02:985][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.09-09.56.03:062][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.09-09.56.03:138][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.09-09.56.03:206][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.09-09.56.03:377][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.09-09.56.03:461][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.09-09.56.03:552][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.09-09.56.03:626][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.09-09.56.03:686][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.09-09.56.03:759][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.09-09.56.03:834][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.09-09.56.03:907][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.09-09.56.03:972][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.09-09.56.04:034][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.09-09.56.04:178][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.09-09.56.04:178][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.09-09.56.04:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.09-09.56.04:326][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.09-09.56.04:499][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.09-09.56.04:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.09-09.56.04:609][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.09-09.56.04:674][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.09-09.56.04:770][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.09-09.56.04:868][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.09-09.56.04:868][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.09-09.56.05:849][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: Loaded boot cache 0.79s 78MB C:/Users/Lauri/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lauri/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.09-09.56.06:641][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.09-09.56.06:689][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.09-09.56.06:702][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lauri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.09-09.56.06:711][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.09-09.56.06:712][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.09-09.56.06:830][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-09.56.06:830][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-09.56.11:766][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-09.56.12:664][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.09-09.56.12:755][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.09-09.56.12:766][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.09-09.56.12:766][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.09-09.56.12:766][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.09-09.56.12:766][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.09-09.56.13:019][  0]LogNetVersion: IsometricCityBuilder , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 554866750)
+[2017.12.09-09.56.14:041][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2017.12.09-09.56.20:177][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.263824 seconds
+[2017.12.09-09.56.20:191][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.09-09.56.20:191][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.09-09.56.20:191][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.09-09.56.20:330][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.09-09.56.50:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.09-09.56.50:790][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.09-09.56.52:698][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.09-09.56.54:348][  0]SourceControl: Source control is disabled
+[2017.12.09-09.56.54:365][  0]SourceControl: Source control is disabled
+[2017.12.09-09.56.54:494][  0]SourceControl: Source control is disabled
+[2017.12.09-09.56.54:594][  0]SourceControl: Source control is disabled
+[2017.12.09-09.56.56:559][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.09-09.56.56:969][  0]LogOcInput: OculusInput pre-init called
+[2017.12.09-09.56.58:062][  0]LogEngine: Initializing Engine...
+[2017.12.09-09.56.58:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.09-09.56.59:458][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.09-09.56.59:459][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.09-09.57.00:235][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.09-09.57.00:373][  0]LogInit: XAudio2 using 'Sankakuuloke (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.09-09.57.00:424][  0]LogInit: FAudioDevice initialized.
+[2017.12.09-09.57.00:578][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Lauri/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.09-09.57.00:597][  0]LogInit: Texture streaming: Enabled
+[2017.12.09-09.57.01:207][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.09-09.57.01:673][  0]LogInit: Transaction tracking system initialized
+[2017.12.09-09.57.02:410][  0]BlueprintLog: New page: Editor Load
+[2017.12.09-09.57.04:575][  0]LocalizationService: Localization service is disabled
+[2017.12.09-09.57.06:811][  0]LogConsoleResponse: Display: 
+[2017.12.09-09.57.11:248][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/' took 0.04s
+[2017.12.09-09.57.11:248][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.09-09.57.11:248][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.09-09.57.11:256][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.09-09.57.14:137][  0]SourceControl: Source control is disabled
+[2017.12.09-09.57.14:171][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.09-09.57.14:274][  0]LightingResults: New page: Lighting Build
+[2017.12.09-09.57.14:540][  0]MapCheck: New page: Map Check
+[2017.12.09-09.57.14:540][  0]LightingResults: New page: Lighting Build
+[2017.12.09-09.57.20:270][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.12.09-09.58.11:379][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.09-09.58.12:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.09-09.58.12:355][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.424ms to complete.
+[2017.12.09-09.58.12:355][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 58.184
+[2017.12.09-09.58.13:886][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.09-09.58.20:388][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.IsometricCityBuilder
+[2017.12.09-09.58.20:388][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.09-09.58.20:389][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.09-09.58.20:389][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.09-09.58.20:389][  0]LogTemp: BranchPath = DESKTOP-M4Q5LBQ/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-M4Q5LBQ/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.09-09.58.20:389][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Lauri\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.09-09.58.20:389][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.09-09.58.21:746][  0]LogCollectionManager: Loaded 0 collections in 0.002097 seconds
+[2017.12.09-09.58.22:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Collections/' took 0.01s
+[2017.12.09-09.58.22:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/Developers/Lauri/Collections/' took 0.01s
+[2017.12.09-09.58.22:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/Collections/' took 0.01s
+[2017.12.09-09.58.22:103][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.09-09.58.22:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2017.12.09-09.58.22:329][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.09-09.58.23:387][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.09-09.58.23:526][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.09-09.58.24:470][  0]LogSlate: Took 0.030623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-09.58.24:505][  0]LogSlate: Took 0.032285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.09-09.58.24:561][  0]LogSlate: Took 0.023559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.09-09.58.25:041][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-09.58.26:693][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.09-09.58.26:693][  0]LogLoad: (Engine Initialization) Total time: 161.38 seconds
+[2017.12.09-09.58.26:693][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.09-09.58.26:710][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.09-09.58.26:710][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.09-09.58.27:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.09-09.58.29:594][  5]LogAssetRegistry: Asset discovery search completed in 135.5771 seconds
+[2017.12.09-09.58.29:651][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.09-09.58.29:651][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.033476 seconds (updated 0 objects)
+[2017.12.09-09.58.31:481][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-09.58.35:257][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-09.58.45:214][414]LogSlate: Took 0.029186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-09.58.45:326][414]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx)
+[2017.12.09-09.58.45:479][414]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.09-09.58.45:479][414]LogFbx: ItemName: Geometry, ItemCount : 13
+[2017.12.09-09.58.45:479][414]LogFbx: ItemName: Model, ItemCount : 13
+[2017.12.09-09.58.45:509][414]LogFbx: Loading FBX Scene from ../../../../../../Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx
+[2017.12.09-09.58.45:530][414]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-09.58.52:128][414]LogFbx: Loading FBX Scene from ../../../../../../Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx
+[2017.12.09-09.58.52:139][414]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-09.58.52:176][414]LogFbx: Warning: Triangulating static mesh Cube.011
+[2017.12.09-09.58.52:209][414]LogFbx: Warning: Triangulating static mesh Cube.010
+[2017.12.09-09.58.52:210][414]LogFbx: Warning: Triangulating static mesh Cube.009
+[2017.12.09-09.58.52:210][414]LogFbx: Warning: Triangulating static mesh Cube.008
+[2017.12.09-09.58.52:222][414]LogFbx: Warning: Triangulating static mesh Cube.007
+[2017.12.09-09.58.52:233][414]LogFbx: Warning: Triangulating static mesh Cube.006
+[2017.12.09-09.58.52:244][414]LogFbx: Warning: Triangulating static mesh Cube.005
+[2017.12.09-09.58.52:257][414]LogFbx: Warning: Triangulating static mesh Cube.004
+[2017.12.09-09.58.52:272][414]LogFbx: Warning: Triangulating static mesh Cube.003
+[2017.12.09-09.58.52:283][414]LogFbx: Warning: Triangulating static mesh Cube.002
+[2017.12.09-09.58.52:283][414]LogFbx: Warning: Triangulating static mesh Text
+[2017.12.09-09.58.52:329][414]LogFbx: Warning: Triangulating static mesh Cube.001
+[2017.12.09-09.58.52:330][414]LogFbx: Warning: Triangulating static mesh Cube
+[2017.12.09-09.58.52:574][414]LogStaticMesh: Building static mesh Warehouse...
+[2017.12.09-09.58.52:720][414]LogStaticMesh: Built static mesh [0.17s] /Game/TopDownBP/Warehouse.Warehouse
+[2017.12.09-09.58.52:820][414]LogStaticMesh: Warning: Warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.09-09.58.52:820][414]LogStaticMesh: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.09-09.58.52:994][414]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-09.58.53:019][414]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-09.58.53:019][414]FBXImport: Warning: Warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.09-09.58.53:019][414]FBXImport: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.09-09.58.55:415][581]LogActorFactory: Actor Factory created Warehouse
+[2017.12.09-09.58.57:468][737]LogActorFactory: Actor Factory created Warehouse
+[2017.12.09-09.59.00:832][ 34]LogSlate: Took 0.027398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.09-09.59.17:451][564]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.00.06:052][688]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx)
+[2017.12.09-10.00.06:122][688]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx]
+[2017.12.09-10.00.06:133][688]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx
+[2017.12.09-10.00.06:151][688]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.00.06:201][688]LogFbx: Warning: Triangulating static mesh Text
+[2017.12.09-10.00.06:277][688]LogStaticMesh: Building static mesh Warehouse...
+[2017.12.09-10.00.06:308][688]LogStaticMesh: Built static mesh [0.04s] /Game/TopDownBP/Warehouse.Warehouse
+[2017.12.09-10.00.06:328][688]LogStaticMesh: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.09-10.00.06:410][688]LogEditorFactories: -- imported successfully
+[2017.12.09-10.00.06:416][688]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.00.06:416][688]FBXImport: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.09-10.00.06:460][688]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-10.00.20:827][185]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx)
+[2017.12.09-10.00.20:829][185]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx]
+[2017.12.09-10.00.20:839][185]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Buildings/Warehouse.fbx
+[2017.12.09-10.00.20:847][185]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.00.20:850][185]LogFbx: Warning: Triangulating static mesh Text
+[2017.12.09-10.00.20:911][185]LogFbx: Warning: Triangulating static mesh Cube.001
+[2017.12.09-10.00.21:023][185]LogStaticMesh: Building static mesh Warehouse...
+[2017.12.09-10.00.21:102][185]LogStaticMesh: Built static mesh [0.10s] /Game/TopDownBP/Warehouse.Warehouse
+[2017.12.09-10.00.21:124][185]LogStaticMesh: Warning: Warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.09-10.00.21:124][185]LogStaticMesh: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.09-10.00.21:195][185]LogEditorFactories: -- imported successfully
+[2017.12.09-10.00.21:197][185]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.00.21:197][185]FBXImport: Warning: Warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.09-10.00.21:197][185]FBXImport: Warning: Warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.09-10.00.23:450][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warehouse)
+[2017.12.09-10.00.24:685][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-10.00.39:454][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.09-10.00.42:379][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warehouse)
+[2017.12.09-10.00.44:686][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-10.00.50:875][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warehouse)
+[2017.12.09-10.00.52:748][760]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.09-10.00.52:790][760]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-10.00.52:790][760]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2017.12.09-10.00.54:153][794]LogEditorViewport: Clicking Background
+[2017.12.09-10.00.55:087][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-10.00.59:885][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warehouse)
+[2017.12.09-10.01.00:611][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-10.01.10:481][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warehouse)
+[2017.12.09-10.01.14:270][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2017.12.09-10.01.16:812][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.09-10.01.22:408][134]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.09-10.01.22:543][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.12.09-10.01.22:569][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-10.01.22:627][134]PIE: New page: PIE session: TopDownExampleMap (Dec 9, 2017, 2:01:22 PM)
+[2017.12.09-10.01.22:643][134]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.12.09-10.01.22:860][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217005s)
+[2017.12.09-10.01.22:861][134]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.12.09-10.01.22:873][134]LogPlayLevel: PIE: World Init took: (0.012777s)
+[2017.12.09-10.01.22:873][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.230166s)
+[2017.12.09-10.01.23:010][134]LogInit: XAudio2 using 'Sankakuuloke (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.09-10.01.23:023][134]LogInit: FAudioDevice initialized.
+[2017.12.09-10.01.23:155][134]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.12.09-10.01.23:330][134]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.12.09-12.01.23
+[2017.12.09-10.01.23:393][134]LogWorld: Bringing up level for play took: 0.089562
+[2017.12.09-10.01.23:750][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.09-10.01.24:663][134]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 2.748
+[2017.12.09-10.01.24:664][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.12.09-10.01.41:694][279]Cmd: LevelEditor.ToggleImmersive
+[2017.12.09-10.01.42:160][280]LogRenderer: Reallocating scene render targets to support 2560x1400 Format 10 NumSamples 1 (Frame:1147).
+[2017.12.09-10.02.10:525][968]Cmd: LevelEditor.ToggleImmersive
+[2017.12.09-10.02.12:690][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.12.09-10.02.13:749][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.12.09-10.03.41:751][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Roads/Junction_1.fbx)
+[2017.12.09-10.03.41:755][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Roads/Junction_1.fbx]
+[2017.12.09-10.03.41:766][ 34]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Roads/Junction_1.fbx
+[2017.12.09-10.03.41:772][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.03.41:773][ 34]LogFbx: Warning: Triangulating static mesh road_A.009
+[2017.12.09-10.03.41:857][ 34]LogStaticMesh: Building static mesh Junction_1...
+[2017.12.09-10.03.42:056][ 34]LogStaticMesh: Built static mesh [0.22s] /Game/TopDownBP/Junction_1.Junction_1
+[2017.12.09-10.03.42:058][ 34]LogStaticMesh: Warning: Junction_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.09-10.03.42:125][ 34]LogEditorFactories: -- imported successfully
+[2017.12.09-10.03.42:128][ 34]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.03.42:128][ 34]FBXImport: Warning: Junction_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.09-10.03.42:339][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Roads/Road_1.fbx)
+[2017.12.09-10.03.42:341][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1.fbx]
+[2017.12.09-10.03.42:423][ 34]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1.fbx
+[2017.12.09-10.03.42:429][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.03.42:462][ 34]LogStaticMesh: Building static mesh Road_1...
+[2017.12.09-10.03.42:464][ 34]LogStaticMesh: Built static mesh [0.03s] /Game/TopDownBP/Road_1.Road_1
+[2017.12.09-10.03.42:661][ 34]LogEditorFactories: -- imported successfully
+[2017.12.09-10.03.42:664][ 34]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.03.42:935][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_left.fbx)
+[2017.12.09-10.03.42:938][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_left.fbx]
+[2017.12.09-10.03.42:948][ 34]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_left.fbx
+[2017.12.09-10.03.42:954][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.03.42:955][ 34]LogFbx: Warning: Triangulating static mesh road_A.007
+[2017.12.09-10.03.43:028][ 34]LogStaticMesh: Building static mesh Road_1_turn_left...
+[2017.12.09-10.03.43:029][ 34]LogStaticMesh: Built static mesh [0.07s] /Game/TopDownBP/Road_1_turn_left.Road_1_turn_left
+[2017.12.09-10.03.43:169][ 34]LogEditorFactories: -- imported successfully
+[2017.12.09-10.03.43:172][ 34]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.03.43:397][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_right.fbx)
+[2017.12.09-10.03.43:414][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_right.fbx]
+[2017.12.09-10.03.43:436][ 34]LogFbx: Loading FBX Scene from C:/Users/Lauri/Desktop/Isometric_objects/Roads/Road_1_turn_right.fbx
+[2017.12.09-10.03.43:442][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.09-10.03.43:443][ 34]LogFbx: Warning: Triangulating static mesh road_A.008
+[2017.12.09-10.03.43:544][ 34]LogStaticMesh: Building static mesh Road_1_turn_right...
+[2017.12.09-10.03.43:545][ 34]LogStaticMesh: Built static mesh [0.10s] /Game/TopDownBP/Road_1_turn_right.Road_1_turn_right
+[2017.12.09-10.03.43:687][ 34]LogEditorFactories: -- imported successfully
+[2017.12.09-10.03.43:689][ 34]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.09-10.03.46:176][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.03.55:030][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Junction_1)
+[2017.12.09-10.03.55:495][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Junction_1)
+[2017.12.09-10.03.59:873][448]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.04.01:028][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Junction_1)
+[2017.12.09-10.04.31:950][499]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.04.32:373][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_1)
+[2017.12.09-10.04.37:243][974]Cmd: TRANSACTION UNDO
+[2017.12.09-10.04.37:243][974]LogEditorTransaction: Undo Move Actors
+[2017.12.09-10.04.37:925][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_1)
+[2017.12.09-10.04.55:220][598]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.04.57:217][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_2)
+[2017.12.09-10.05.01:382][133]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.05.04:685][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_2)
+[2017.12.09-10.05.07:373][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_2)
+[2017.12.09-10.05.09:898][856]Cmd: TRANSACTION UNDO
+[2017.12.09-10.05.09:898][856]LogEditorTransaction: Undo Move Actors
+[2017.12.09-10.05.11:397][979]Cmd: TRANSACTION UNDO
+[2017.12.09-10.05.11:397][979]LogEditorTransaction: Undo Move Actors
+[2017.12.09-10.05.17:772][543]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.05.26:425][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_1_turn_left)
+[2017.12.09-10.05.56:158][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.09-10.06.00:560][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_3)
+[2017.12.09-10.06.30:534][388]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.06.33:255][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_4)
+[2017.12.09-10.06.37:424][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_4)
+[2017.12.09-10.06.41:468][400]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.06.54:749][466]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2017.12.09-10.06.55:246][491]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2017.12.09-10.07.03:135][166]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.12.09-10.07.03:615][169]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.12.09-10.07.11:299][798]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.12.09-10.07.17:499][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.09-10.09.03:195][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_1)
+[2017.12.09-10.09.05:578][897]Cmd: TRANSACTION UNDO
+[2017.12.09-10.09.05:578][897]LogEditorTransaction: Undo Move Actors
+[2017.12.09-10.09.14:182][621]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.09.14:773][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_1_turn_right)
+[2017.12.09-10.09.48:095][865]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.09-10.09.52:228][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_5)
+[2017.12.09-10.10.18:264][633]Cmd: DELETE
+[2017.12.09-10.10.18:264][633]Cmd: ACTOR DELETE
+[2017.12.09-10.10.18:527][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-10.10.18:539][633]LogEditorActor: Deleted 1 Actors (0.197 secs)
+[2017.12.09-10.10.20:955][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road_4)
+[2017.12.09-10.10.21:197][902]Cmd: DELETE
+[2017.12.09-10.10.21:197][902]Cmd: ACTOR DELETE
+[2017.12.09-10.10.21:223][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.09-10.10.21:234][902]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.12.09-10.11.02:701][751]LogSavePackage: Save=4039.21ms
+[2017.12.09-10.11.02:701][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/TopDownExampleMap_Auto11EAFD60742B7DE090BB2D8BA327CD835.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2017.12.09-10.11.02:723][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2017.12.09-10.11.02:740][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 4.290
+[2017.12.09-10.11.02:740][751]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.290
+[2017.12.09-10.11.02:743][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Junction_1] ([1] browsable assets)...
+[2017.12.09-10.11.02:791][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Junction_1.Junction_1]
+[2017.12.09-10.11.02:791][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Junction_1]
+[2017.12.09-10.11.02:825][751]LogSavePackage: Save=30.68ms
+[2017.12.09-10.11.02:825][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Junction_1_Auto1F3D5058C497BBB9AE0BF56B811287496.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Junction_1_Auto1.uasset'
+[2017.12.09-10.11.02:826][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Junction_1_Auto1.uasset
+[2017.12.09-10.11.02:827][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Road_1] ([1] browsable assets)...
+[2017.12.09-10.11.02:839][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Road_1.Road_1]
+[2017.12.09-10.11.02:839][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Road_1]
+[2017.12.09-10.11.02:853][751]LogSavePackage: Save=10.71ms
+[2017.12.09-10.11.02:853][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_1_Auto1A9E41FBB4C0E5E1FE59A5D8974581F92.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_Auto1.uasset'
+[2017.12.09-10.11.02:855][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_Auto1.uasset
+[2017.12.09-10.11.02:855][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Road_1_turn_left] ([1] browsable assets)...
+[2017.12.09-10.11.02:867][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Road_1_turn_left.Road_1_turn_left]
+[2017.12.09-10.11.02:867][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Road_1_turn_left]
+[2017.12.09-10.11.02:881][751]LogSavePackage: Save=10.02ms
+[2017.12.09-10.11.02:881][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_1_turn_left_Auto1AF40AFBA4468B3093FE4BE9D8FE72A2E.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_turn_left_Auto1.uasset'
+[2017.12.09-10.11.02:882][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_turn_left_Auto1.uasset
+[2017.12.09-10.11.02:882][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Road_1_turn_right] ([1] browsable assets)...
+[2017.12.09-10.11.02:894][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Road_1_turn_right.Road_1_turn_right]
+[2017.12.09-10.11.02:894][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Road_1_turn_right]
+[2017.12.09-10.11.02:909][751]LogSavePackage: Save=11.15ms
+[2017.12.09-10.11.02:909][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_1_turn_right_Auto15BC4DF2F47B4498BEC859A900566390A.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_turn_right_Auto1.uasset'
+[2017.12.09-10.11.02:910][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Road_1_turn_right_Auto1.uasset
+[2017.12.09-10.11.02:911][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Warehouse] ([1] browsable assets)...
+[2017.12.09-10.11.02:923][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Warehouse.Warehouse]
+[2017.12.09-10.11.02:923][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Warehouse]
+[2017.12.09-10.11.02:936][751]LogSavePackage: Save=11.12ms
+[2017.12.09-10.11.02:936][751]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Warehouse_Auto19B21B7A4459AE8F9CAC3E4956EB74C15.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Warehouse_Auto1.uasset'
+[2017.12.09-10.11.02:937][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Autosaves/Game/TopDownBP/Warehouse_Auto1.uasset
+[2017.12.09-10.11.02:937][751]LogFileHelpers: Auto-saving content packages took 0.195
+[2017.12.09-12.03.35:630][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Junction_1" FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Junction_1.uasset" SILENT=true
+[2017.12.09-12.03.36:379][102]LogSavePackage: Save=330.20ms
+[2017.12.09-12.03.36:423][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Junction_19AA29739495B18E801C0E2AE9A443133.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Junction_1.uasset'
+[2017.12.09-12.03.36:585][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Junction_1.uasset
+[2017.12.09-12.03.59:536][102]LogSavePackage: Save=18258.77ms
+[2017.12.09-12.03.59:536][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/TopDownExampleMapF5C645364836AD4A6A0E948044048F23.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.12.09-12.03.59:594][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.12.09-12.03.59:820][102]LogFileHelpers: Saving map 'TopDownExampleMap' took 23.226
+[2017.12.09-12.03.59:826][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Road_1" FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1.uasset" SILENT=true
+[2017.12.09-12.03.59:847][102]LogSavePackage: Save=14.34ms
+[2017.12.09-12.03.59:847][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_12D6A3BEA4A32F5728358EFA17D3972BD.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1.uasset'
+[2017.12.09-12.03.59:870][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1.uasset
+[2017.12.09-12.03.59:874][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Road_1_turn_left" FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_left.uasset" SILENT=true
+[2017.12.09-12.03.59:898][102]LogSavePackage: Save=18.86ms
+[2017.12.09-12.03.59:898][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_1_turn_left3DD77B094F227C97D4DE8D806282D791.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_left.uasset'
+[2017.12.09-12.03.59:900][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_left.uasset
+[2017.12.09-12.03.59:904][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Road_1_turn_right" FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_right.uasset" SILENT=true
+[2017.12.09-12.03.59:912][102]LogSavePackage: Save=3.50ms
+[2017.12.09-12.03.59:912][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Road_1_turn_right8ED08ACA4694365D79156A94D096A889.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_right.uasset'
+[2017.12.09-12.03.59:914][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Road_1_turn_right.uasset
+[2017.12.09-12.03.59:933][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Warehouse" FILE="../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Warehouse.uasset" SILENT=true
+[2017.12.09-12.04.00:000][102]LogSavePackage: Save=65.06ms
+[2017.12.09-12.04.00:000][102]LogSavePackage: Moving '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Saved/Warehouse7A269FC24256AE7AB5D7F8823C1F841C.tmp' to '../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Warehouse.uasset'
+[2017.12.09-12.04.00:002][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Lauri/Documents/Unreal Projects/IsometricCityBuilder/Content/TopDownBP/Warehouse.uasset
